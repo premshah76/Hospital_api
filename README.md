@@ -48,4 +48,4 @@ We will use postman to check the api is working or not,So download postman on yo
 # DEPLOYEMENT
 Project already deployed on render(For better exp: use Postman for accesing above Routes)
 
-Do Visit: 
+Do Visit: https://hospital-api-prem.onrender.com/api/v1/doctors/register

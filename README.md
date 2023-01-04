@@ -26,27 +26,24 @@ We will use postman to check the api is working or not,So download postman on yo
 
 1.Now use this **http://localhost:5000/api/v1/doctors/register** route to register doctor in API and add the info as shown in image
 
-
-
+![Screenshot (1)](https://user-images.githubusercontent.com/107624668/210522229-07245450-4634-46b0-ae60-a2c00a46860c.png)
 
 2.Use this **http://localhost:5000/api/v1/doctors/login** to login as a doctor and add info as shown in image
 
-
+![Screenshot (2)](https://user-images.githubusercontent.com/107624668/210522400-c2c6c906-16a5-4757-9e53-b77837f8c6f7.png)
 
 3.Use this **http://localhost:5000/api/v1/patients/register** and add the token in authorization area which is recieved in second point
 
-
-
+![Screenshot (3)](https://user-images.githubusercontent.com/107624668/210522471-173a8b1b-c039-4167-9224-fdef51485a5f.png)
 
 4. Use this **http://localhost:5000/api/v1/patients/62c31cc86a84003324d04cb5/create_report** to create report and add status you can see the types of 
    status in report model.
 
-
-
+![Screenshot (4)](https://user-images.githubusercontent.com/107624668/210522551-9703587d-d232-4788-99bd-4a023b1f7802.png)
 
 5. Use this **http://localhost:5000/api/v1/patients/62c31cc86a84003324d04cb5/all_reports** to get all the reports.
 
-
+![Screenshot (5)](https://user-images.githubusercontent.com/107624668/210522595-06a98f9f-3b14-4abc-bae5-2d8dc79d7600.png)
 
 # DEPLOYEMENT
 Project already deployed on render(For better exp: use Postman for accesing above Routes)
